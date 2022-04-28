@@ -3,7 +3,6 @@
 ```html
 <n-space vertical :size="12">
   <n-data-table
-    :bordered="false"
     :columns="columns"
     :data="data"
     :pagination="pagination"
